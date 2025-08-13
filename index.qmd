@@ -4,7 +4,7 @@ image: images/证件照.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
+  image-width: 25em
   image-shape: round
   links:
     - icon: mailbox
