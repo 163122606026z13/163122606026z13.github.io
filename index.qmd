@@ -1,6 +1,6 @@
 ---
 title: "沈卓"
-image: images/证件照.png
+image: images/证件照.jpg
 about:
   id: hero-heading
   template: trestles
